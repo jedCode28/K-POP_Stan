@@ -5,6 +5,7 @@ import Bands from './components/Bands';
 import BandForm from './components/BandForm'
 
 
+import EditBand from './components/EditBand';
 
 function App() {
   const [showForm, setShowForm] =useState(false)
